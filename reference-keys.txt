@@ -1,0 +1,15 @@
+curriculum-vitae
+goals
+education
+projects-practicals
+experience
+technical-skills
+languages
+examples-of-work
+file-structure-in-go-term-enrichment-analysis-from-fastq-files
+visualization-of-c.-elegans-experiment-data
+r-code-reproducibility
+leptospira-and-its-genome
+parameterized-covid-19-reports
+cell-tracking-challenge-with-yolo26n
+references
